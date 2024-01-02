@@ -1,0 +1,27 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>MainForm.qml</file>
+        <file>StartButton.ui.qml</file>
+    </qresource>
+    <qresource prefix="/img">
+        <file alias="water">img/water.png</file>
+        <file alias="ice">img/ice.png</file>
+        <file alias="flag">img/flag.png</file>
+        <file alias="flag_broken">img/flag_broken.png</file>
+        <file alias="concrete">img/concrete.png</file>
+        <file alias="bush">img/bush.png</file>
+        <file alias="brick">img/brick.png</file>
+        <file alias="tanks">img/tanks.png</file>
+        <file alias="bullet">img/bullet.png</file>
+        <file alias="explosion1">img/explosion1.png</file>
+        <file>img/explosion2.png</file>
+    </qresource>
+    <qresource prefix="/audio">
+        <file alias="shot">audio/shot.wav</file>
+        <file alias="expl-tank">audio/expl-tank.wav</file>
+        <file alias="expl-flag">audio/expl-flag.wav</file>
+        <file alias="expl-brick">audio/expl-bricks.wav</file>
+        <file alias="expl-nodamage">audio/expl-nodamage.wav</file>
+    </qresource>
+</RCC>
